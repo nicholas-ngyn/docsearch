@@ -1,0 +1,1 @@
+wc technical/plos/*.txt -w
